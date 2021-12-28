@@ -1,1 +1,20 @@
+============================
+27-12-21
+============================
+
+Study in detail about print
+Study in detail about Datatypes in python 
+Study in detail about compiler vs interpreter
+
+print("hello")
+print('Hi {0} are {1}'.format('How','you'))
+print 'this is %s class' %'python'
+
+datatypes
+str
+int,float
+list [] ,sets,tuple, range ()
+dict {}
+bool
+
 
